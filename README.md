@@ -2,7 +2,12 @@
 
    Full-Stack MERN Note App
 
-                                        Visit Now🚀: https://notesverse.onrender.com
+🌐 Live Demo
+
+[🚀 Try NotesVerse Live](https://notesverse.onrender.com)
+
+_(Note: This is deployed on Render Free Tier. First load may take a few seconds due to server sleep!)_
+
                                         
 
 <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/fb1b1122-aa68-429e-8f92-bed9b9ed3d62" />
